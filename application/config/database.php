@@ -94,3 +94,26 @@ $db['default'] = array(
 	'failover' => array(),
 	'save_queries' => TRUE
 );
+
+/*
+$db['default'] = array(
+	'dsn'	=> '',
+	'hostname' => 'mariadb-dev.cajp1e3hhhw9.us-east-1.rds.amazonaws.com',
+	'username' => 'job_seeker',
+	'password' => '2056054Math!',
+	'database' => 'job_seeker',
+	'dbdriver' => 'mysqli',
+	'dbprefix' => '',
+	'pconnect' => FALSE,
+	'db_debug' => (ENVIRONMENT !== 'production'),
+	'cache_on' => FALSE,
+	'cachedir' => '',
+	'char_set' => 'utf8',
+	'dbcollat' => 'utf8_general_ci',
+	'swap_pre' => '',
+	'encrypt' => FALSE,
+	'compress' => FALSE,
+	'stricton' => FALSE,
+	'failover' => array(),
+	'save_queries' => TRUE
+); */
