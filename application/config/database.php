@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
+	'hostname' => 'c-mas-devdb.copart.com:3111',
+	'username' => 'liquibase_adm',
+	'password' => 'aYEN1@BdE9Q4',
 	'database' => 'jobseeker',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
